@@ -12,7 +12,7 @@ JQUERY
 GOOGLE FONTS('https://fonts.googleapis.com/css?family=Alegreya+Sans&display=swap')
 
 Live Link
-
+https://shemy654.github.io/Delani-Studio/
 Contacts
 Email:shemnyaga20@gmail.com
 
